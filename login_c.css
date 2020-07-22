@@ -1,0 +1,11 @@
+body
+{
+    background-color: #ffc0cb;
+}
+
+.box {
+    background-color : #ffefd5;
+    color: black;
+    width: 500px;
+    height: 100px;
+}
